@@ -6,3 +6,5 @@ Goal is to use pipe and fork to set up the pipeline. The first process feeds the
 https://pdos.csail.mit.edu/6.828/2023/labs/util.html
 
 ![image](https://github.com/user-attachments/assets/b1dd3cbc-3f88-4512-8456-5617681af195)
+![image](https://github.com/user-attachments/assets/8f7ec1e2-e419-461d-806b-174ce59e6809)
+
